@@ -1,4 +1,3 @@
-module.exports = function Length(str = ''){
+module.exports = function lenght (str=''){
     return str.length;
 }
-

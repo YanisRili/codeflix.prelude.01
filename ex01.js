@@ -1,3 +1,3 @@
-module.exports =function lowerCase(str = ''){
+module.exports = function lowerCase(str=''){
     return str.toLowerCase()
 }
